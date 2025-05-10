@@ -14,5 +14,6 @@ class bullet{
     void draw();
     void update();
     float getPosY() const;
+    float getPosX() const;
 
 };

@@ -20,4 +20,7 @@ bullet::bullet(float h, float w){
     float bullet::getPosY() const{
         return posY;
     }
+    float bullet::getPosX() const{
+        return posX;
+    }
  
